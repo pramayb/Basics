@@ -2,10 +2,10 @@ package com.java.hacker_rank._30dayscode;
 
 import java.util.Scanner;
 
-public class Person_day4 {
+public class Day04_Person {
 	private int age;
 
-	public Person_day4(int initialAge) {
+	public Day04_Person(int initialAge) {
 		// Add some more code to run some checks on initialAge
 		if (initialAge > 0) {
 			age = initialAge;
@@ -37,7 +37,7 @@ public class Person_day4 {
 		int T = sc.nextInt();
 		for (int i = 0; i < T; i++) {
 			int age = sc.nextInt();
-			Person_day4 p = new Person_day4(age);
+			Day04_Person p = new Day04_Person(age);
 			p.amIOld();
 			for (int j = 0; j < 3; j++) {
 				p.yearPasses();

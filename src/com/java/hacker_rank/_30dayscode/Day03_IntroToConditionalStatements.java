@@ -2,7 +2,7 @@ package com.java.hacker_rank._30dayscode;
 
 import java.util.Scanner;
 
-public class IntroToConditionalStatements_day3 {
+public class Day03_IntroToConditionalStatements {
 	private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {

@@ -2,7 +2,7 @@ package com.java.hacker_rank._30dayscode;
 
 import java.util.Scanner;
 
-public class LetsReview_day6 {
+public class Day06_LetsReview {
 	public static void main(String[] args) {
 		/*
 		 * Enter your code here. Read input from STDIN. Print output to STDOUT. Your

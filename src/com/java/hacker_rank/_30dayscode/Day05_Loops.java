@@ -2,7 +2,7 @@ package com.java.hacker_rank._30dayscode;
 
 import java.util.Scanner;
 
-public class Loops_day5 {
+public class Day05_Loops {
 	private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {

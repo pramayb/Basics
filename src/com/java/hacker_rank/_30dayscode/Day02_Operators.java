@@ -2,7 +2,7 @@ package com.java.hacker_rank._30dayscode;
 
 import java.util.Scanner;
 
-public class Operators_day2 {
+public class Day02_Operators {
 	/**
 	 * Given the meal price (base cost of a meal), tip percent (the percentage of
 	 * the meal price being added as tip), and tax percent (the percentage of the
