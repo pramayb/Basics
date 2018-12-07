@@ -1,7 +1,5 @@
 package com.java.hacker_rank._30dayscode;
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
